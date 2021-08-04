@@ -2,6 +2,7 @@ import React from 'react';
 
 function Item(props) {
     const {list,deleteClick}=props
+    console.log(111);
 
     return (
         <div>
