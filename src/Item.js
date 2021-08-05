@@ -2,10 +2,13 @@ import React from 'react';
 
 function Item(props) {
     const {list,deleteClick}=props
+<<<<<<< HEAD
     console.log(333);
     console.log(333);
     console.log(333);
     console.log(807);
+=======
+>>>>>>> parent of 57b8c0b... ceshi
 
     return (
         <div>
