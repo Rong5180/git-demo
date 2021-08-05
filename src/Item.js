@@ -3,12 +3,15 @@ import React from 'react';
 function Item(props) {
     const {list,deleteClick}=props
 <<<<<<< HEAD
+<<<<<<< HEAD
     console.log(333);
     console.log(333);
     console.log(333);
     console.log(807);
 =======
 >>>>>>> parent of 57b8c0b... ceshi
+=======
+>>>>>>> parent of 5136ef1... sd
 
     return (
         <div>
